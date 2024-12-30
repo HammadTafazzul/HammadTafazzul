@@ -24,29 +24,19 @@ Welcome to my GitHub profile! I’m a passionate Data Science enthusiast with a 
 - **Databases**: **MySQL**, **PostgreSQL**, **MongoDB**, **Google BigQuery**
 - **Tools**: **Git**, **Docker**, **Jupyter Notebooks**, **VS Code**, **Google Cloud Platform (GCP)**
 
-## GitHub Stats
-
-![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=HammadTafazzul&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HammadTafazzul&layout=compact&theme=radical)
-
 ## Projects
 
 Here are some of the **Data Science** projects I've worked on:
 
-- **[Route Optimization Using GenAI](link-to-project)**  
+- **[Route Optimization Using GenAI](https://github.com/HammadTafazzul/Transportation-Route-Optimization-Using-Gen-Ai)**  
   Developed a **route optimization system** using **Dijkstra** and **A\*** algorithms, integrated with **machine learning** and real-time traffic data.
 
-- **[Fake News Detection](link-to-project)**  
+- **[Fake News Detection](https://github.com/HammadTafazzul/Transportation-Route-Optimization-Using-Gen-Ai)**  
   Created a **machine learning model** for detecting fake news using **Python**, **Scikit-learn**, and **Flask** for a web-based application.
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/hammad-tafazzul/)
-- [Twitter](https://twitter.com/HammadTafazzul)
-- [Portfolio](http://your-portfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/hammadtafazzul/)
 
 Feel free to explore my repositories and reach out if you want to collaborate or discuss data science and machine learning!
 
@@ -54,8 +44,7 @@ Feel free to explore my repositories and reach out if you want to collaborate or
 - 🌱 I’m currently learning **Deep Learning** and exploring **AI frameworks**.
 - 👯 I’m looking to collaborate on **open-source data science projects**.
 - 🤔 I’m looking for help with **advanced model tuning** and **data engineering**.
-- 💬 Ask me about **Data Science**, **Machine Learning**, **Deep Learning**, and **NLP**.
+- 💬 Ask me about **Data Science**, **Machine Learning**, and**Deep Learning**.
 - 📫 How to reach me: **Email** or **LinkedIn**.
-- 😄 Pronouns: **They/Them**.
 - ⚡ Fun fact: I enjoy **puzzle-solving** and **chess**.
 
