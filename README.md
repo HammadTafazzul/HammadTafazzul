@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m a passionate Data Science enthusiast with a 
 - 👯 I’m looking to collaborate on **open-source data science projects** and **innovative AI/ML ideas**.
 - 🤔 I’m looking for help with **advanced model optimization** and **AI project scalability**.
 - 💬 Ask me about **machine learning**, **deep learning**, **data analytics**, **AI frameworks**, and **data visualization**.
-- 📫 How to reach me: [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/hammad-tafazzul/)
+- 📫 How to reach me: [Email](mailto:hammad.tafazzul1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hammadtafazzul/)
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
